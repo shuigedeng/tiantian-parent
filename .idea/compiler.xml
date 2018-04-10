@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="tiantian-common" />
+        <module name="tiantian-manager-dao" />
+        <module name="tiantian-manager-interface" />
+        <module name="tiantian-manager-pojo" />
+        <module name="tiantian-manager-service" />
+        <module name="tiantian-manager-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="tiantian-common" target="1.7" />
+      <module name="tiantian-manager" target="1.7" />
+      <module name="tiantian-manager-dao" target="1.7" />
+      <module name="tiantian-manager-interface" target="1.7" />
+      <module name="tiantian-manager-pojo" target="1.7" />
+      <module name="tiantian-manager-service" target="1.7" />
+      <module name="tiantian-manager-web" target="1.7" />
+      <module name="tiantian-parent" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

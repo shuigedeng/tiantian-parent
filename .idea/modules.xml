@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../tiantian-parent/tiantian-common/tiantian-common.iml" filepath="$PROJECT_DIR$/../tiantian-parent/tiantian-common/tiantian-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager.iml" filepath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/tiantian-manager-dao.iml" filepath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/tiantian-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-interface/tiantian-manager-interface.iml" filepath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-interface/tiantian-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/tiantian-manager-pojo.iml" filepath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/tiantian-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/tiantian-manager-service.iml" filepath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/tiantian-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/tiantian-manager-web.iml" filepath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/tiantian-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-parent.iml" filepath="$PROJECT_DIR$/tiantian-parent.iml" />
+    </modules>
+  </component>
+</project>
