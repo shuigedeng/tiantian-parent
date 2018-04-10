@@ -14,7 +14,7 @@
 
     <!-- 使用dubbo发布服务 -->
     <!-- 提供方应用信息，用于计算依赖关系 -->
-    <dubbo:application name="taotao-manager" />
+    <dubbo:application name="tiantian-manager" />
 
     <dubbo:registry protocol="zookeeper" address="114.55.253.31:2181" />
     <!-- 用dubbo协议在20880端口暴露服务 -->
