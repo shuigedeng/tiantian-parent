@@ -8,34 +8,31 @@ import java.util.List;
  * @create 2018/4/10 14:31
  */
 public class EasyUIDataGridResult implements Serializable{
-    private int total;
+    private Long total;
 
     private List<?> rows;
 
-    public EasyUIDataGridResult(Integer total, List<?> rows) {
-        this.total = total;
-        this.rows = rows;
+    public EasyUIDataGridResult() {
     }
 
     public EasyUIDataGridResult(Long total, List<?> rows) {
-        this.total = total.intValue();
+        this.total = total;
         this.rows = rows;
     }
 
-    public Integer getTotal() {
-        return total;
-    }
-
-    public void setTotal(Integer total) {
+    public void setTotal(Long total) {
         this.total = total;
-    }
-
-    public List<?> getRows() {
-        return rows;
     }
 
     public void setRows(List<?> rows) {
         this.rows = rows;
     }
 
+    public Long getTotal() {
+        return total;
+    }
+
+    public List<?> getRows() {
+        return rows;
+    }
 }

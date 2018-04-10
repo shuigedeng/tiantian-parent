@@ -1,5 +1,6 @@
 package com.tiantian.controller;
 
+import com.tiantian.common.pojo.EasyUIDataGridResult;
 import com.tiantian.service.ItemService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
@@ -14,4 +15,11 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class ItemController {
     @Autowired
     public ItemService itemService;
+
+    @RequestMapping("/item/list")
+    @ResponseBody
+    public EasyUIDataGridResult itemList(int page, int rows){
+        EasyUIDataGridResult itemList = itemService.getItemList(page, rows);
+        return itemList;
+    }
 }
