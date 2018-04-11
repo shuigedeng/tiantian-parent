@@ -9,7 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/tiantian-manager-pojo.iml" filepath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/tiantian-manager-pojo.iml" />
       <module fileurl="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/tiantian-manager-service.iml" filepath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/tiantian-manager-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/tiantian-manager-web.iml" filepath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/tiantian-manager-web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tiantian-parent.iml" filepath="$PROJECT_DIR$/tiantian-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tiantian-parent/tiantian-parent.iml" filepath="$PROJECT_DIR$/../tiantian-parent/tiantian-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tiantian-parent/tiantian-portal-web/tiantian-portal-web.iml" filepath="$PROJECT_DIR$/../tiantian-parent/tiantian-portal-web/tiantian-portal-web.iml" />
     </modules>
   </component>
 </project>

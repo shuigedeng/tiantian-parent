@@ -11,6 +11,7 @@
         <module>tiantian-common</module>
         <module>tiantian-manager</module>
         <module>tiantian-manager-web</module>
+        <module>tiantian-portal-web</module>
     </modules>
     <packaging>pom</packaging>
 
