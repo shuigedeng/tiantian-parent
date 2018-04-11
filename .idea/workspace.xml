@@ -2,10 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd2da674-503d-4c90-bcfe-7d02379da19e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-common/src/main/java/com/tiantian/common/pojo/EasyUITreeNode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/java/com/tiantian/controller/ItemCatController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-interface/src/main/java/com/tiantian/service/ItemCatService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/src/main/java/com/tiantian/service/impl/ItemCatServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/target/classes/com/tiantian/controller/ItemController.class" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/target/classes/com/tiantian/controller/ItemController.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/target/tiantian-manager-dao.jar" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/target/tiantian-manager-dao.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-interface/target/tiantian-manager-interface.jar" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-interface/target/tiantian-manager-interface.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/target/tiantian-manager-pojo.jar" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/target/tiantian-manager-pojo.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/target/classes/com/tiantian/service/impl/ItemServiceImpl.class" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/target/classes/com/tiantian/service/impl/ItemServiceImpl.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/target/tiantian-manager-service.war" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/target/tiantian-manager-service.war" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/target/tiantian-manager-service/WEB-INF/lib/tiantian-common-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/target/tiantian-manager-service/WEB-INF/lib/tiantian-common-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/target/tiantian-manager-service/WEB-INF/lib/tiantian-manager-interface-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/target/tiantian-manager-service/WEB-INF/lib/tiantian-manager-interface-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/target/tiantian-manager-service/WEB-INF/lib/tiantian-manager-pojo-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/target/tiantian-manager-service/WEB-INF/lib/tiantian-manager-pojo-1.0-SNAPSHOT.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/.idea/artifacts/tiantian_manager_web_war_exploded.xml" afterPath="$PROJECT_DIR$/../tiantian-parent/.idea/artifacts/tiantian_manager_web_war_exploded.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../tiantian-parent/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/tiantian-common/src/main/java/com/tiantian/common/pojo/EasyUIDataGridResult.java" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-common/src/main/java/com/tiantian/common/pojo/EasyUIDataGridResult.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/java/com/tiantian/controller/ItemController.java" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/java/com/tiantian/controller/ItemController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/src/main/java/com/tiantian/service/impl/ItemServiceImpl.java" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/src/main/java/com/tiantian/service/impl/ItemServiceImpl.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/resources/spring/springmvc.xml" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/resources/spring/springmvc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/target/classes/spring/springmvc.xml" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/target/classes/spring/springmvc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/target/tomcat/logs/access_log.2018-04-10" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/target/tomcat/logs/access_log.2018-04-10" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/tiantian-manager-web.iml" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/tiantian-manager-web.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/src/main/resources/spring/applicationContext-service.xml" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/src/main/resources/spring/applicationContext-service.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/target/classes/spring/applicationContext-service.xml" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/target/classes/spring/applicationContext-service.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
     </list>
     <ignored path="$PROJECT_DIR$/../tiantian-parent/out/" />
     <ignored path="$PROJECT_DIR$/../tiantian-parent/target/" />
@@ -25,22 +47,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="item-list.jsp" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/jsp/item-list.jsp">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="applicationContext-service.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/src/main/resources/spring/applicationContext-service.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="88" lean-forward="false" selection-start-line="2" selection-start-column="84" selection-end-line="2" selection-end-column="88" />
+            <state relative-caret-position="494">
+              <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ItemController.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/java/com/tiantian/controller/ItemController.java">
+      <file leaf-file-name="ItemCatController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/java/com/tiantian/controller/ItemCatController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="572">
+              <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,21 +70,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ItemService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-interface/src/main/java/com/tiantian/service/ItemService.java">
+      <file leaf-file-name="ItemCatServiceImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/src/main/java/com/tiantian/service/impl/ItemCatServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ItemServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/src/main/java/com/tiantian/service/impl/ItemServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="300">
+              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,20 +82,77 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EasyUIDataGridResult.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-common/src/main/java/com/tiantian/common/pojo/EasyUIDataGridResult.java">
+      <file leaf-file-name="TbItemCatMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbItemCatMapper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="390">
-              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TbItemCatMapper.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbItemCatMapper.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="638">
+              <caret line="87" column="11" lean-forward="true" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
               <folding>
-                <element signature="e#450#451#0" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-                <element signature="e#525#526#0" expanded="true" />
-                <element signature="e#557#558#0" expanded="true" />
-                <element signature="e#587#588#0" expanded="true" />
-                <element signature="e#615#616#0" expanded="true" />
-                <element signature="e#647#648#0" expanded="true" />
-                <element signature="e#674#675#0" expanded="true" />
+                <marker date="1523350386339" expanded="true" signature="3788:3894" ph="select from tb_item_cat" />
+                <marker date="1523350386339" expanded="true" signature="3978:4038" ph="delete from " />
+                <marker date="1523350386339" expanded="true" signature="4139:4162" ph="delete from " />
+                <marker date="1523350386339" expanded="true" signature="4340:4699" ph="insert into tb_item_cat... " />
+                <marker date="1523350386339" expanded="true" signature="6251:6283" ph="select count... tb_item_cat" />
+                <marker date="1523350386339" expanded="true" signature="7518:7944" ph="update tb_it... " />
+                <marker date="1523350386339" expanded="true" signature="8153:8890" ph="update tb_it... " />
+                <marker date="1523350386339" expanded="true" signature="8987:9360" ph="update tb_it... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="springmvc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/resources/spring/springmvc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="598">
+              <caret line="24" column="71" lean-forward="true" selection-start-line="24" selection-start-column="71" selection-end-line="24" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/js/common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="127" column="53" lean-forward="true" selection-start-line="127" selection-start-column="53" selection-end-line="127" selection-end-column="53" />
+              <folding>
+                <marker date="1472979887000" expanded="true" signature="1425:1435" ph="..." />
+                <marker date="1472979887000" expanded="true" signature="1847:1887" ph="..." />
+                <marker date="1472979887000" expanded="true" signature="3186:3203" ph="..." />
+                <marker date="1472979887000" expanded="true" signature="3273:3290" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EasyUITreeNode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-common/src/main/java/com/tiantian/common/pojo/EasyUITreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ItemCatService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-interface/src/main/java/com/tiantian/service/ItemCatService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -105,10 +174,22 @@
       <find>jackson</find>
       <find>dialect</find>
       <find>taotao</find>
+      <find>rows</find>
+      <find>共</find>
+      <find>page</find>
+      <find>显示</find>
+      <find>pagination-page-list</find>
+      <find>itemEditWindow</find>
+      <find>rows=</find>
+      <find>itemList</find>
+      <find>selectByExample</find>
     </findStrings>
     <replaceStrings>
       <replace>tiantian</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>F:\tiantian-parent</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../tiantian-parent" />
@@ -121,18 +202,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/src/main/resources/spring/applicationContext-dao.xml" />
-        <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/src/main/resources/spring/applicationContext-trans.xml" />
-        <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/pom.xml" />
         <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-interface/src/main/java/com/tiantian/service/TtemService.java" />
         <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/pom.xml" />
         <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/pom.xml" />
-        <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/src/main/resources/spring/applicationContext-service.xml" />
         <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/java/com/tiantian/controller/PageController.java" />
-        <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/resources/spring/springmvc.xml" />
         <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/src/main/resources/mybatis/SqlMapConfig.xml" />
         <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/src/main/resources/properties/db.properties" />
         <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-interface/src/main/java/com/tiantian/service/ItemService.java" />
@@ -172,11 +246,25 @@
         <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-common/src/main/java/com/tiantian/common/pojo/EasyUIDataGridResult.java" />
         <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/src/main/java/com/tiantian/service/impl/ItemServiceImpl.java" />
         <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/java/com/tiantian/controller/ItemController.java" />
+        <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/js/kindeditor-4.1.10/kindeditor.js" />
+        <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-common/src/main/java/com/tiantian/common/pojo/EasyUITreeNode.java" />
+        <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-interface/src/main/java/com/tiantian/service/ItemCatService.java" />
+        <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/src/main/resources/spring/applicationContext-service.xml" />
+        <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/resources/spring/springmvc.xml" />
+        <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/java/com/tiantian/controller/ItemCatController.java" />
+        <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/src/main/java/com/tiantian/service/impl/ItemCatServiceImpl.java" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -193,15 +281,6 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="tiantian-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="tiantian-common" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="tiantian-manager" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
@@ -214,15 +293,6 @@
           <item name="tiantian-manager" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
           <item name="tomcat7" type="36feed69:MavenProjectsStructure$PluginNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="tiantian-manager-pojo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="tiantian-manager-pojo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
       <select />
@@ -249,6 +319,9 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -271,6 +344,40 @@
               <item name="tiantian-parent" type="b2602c69:ProjectViewProjectNode" />
               <item name="tiantian-parent" type="462c0819:PsiDirectoryNode" />
               <item name="tiantian-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="tiantian-manager-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tiantian-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tiantian-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="tiantian-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="tiantian-manager-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tiantian-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tiantian-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="tiantian-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="tiantian-manager-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tiantian-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tiantian-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="tiantian-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="tiantian-manager-dao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tiantian-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tiantian-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="tiantian-manager" type="462c0819:PsiDirectoryNode" />
               <item name="tiantian-manager-interface" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -306,17 +413,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tiantian-parent" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tiantian-parent" type="462c0819:PsiDirectoryNode" />
-              <item name="tiantian-manager" type="462c0819:PsiDirectoryNode" />
-              <item name="tiantian-manager-interface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="ItemService" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="tiantian-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -365,9 +461,17 @@
               <item name="tiantian-manager-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-              <item name="ItemServiceImpl" type="1a9f42e2:ClassTreeNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tiantian-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tiantian-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="tiantian-manager" type="462c0819:PsiDirectoryNode" />
+              <item name="tiantian-manager-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="tiantian-parent" type="b2602c69:ProjectViewProjectNode" />
@@ -410,6 +514,23 @@
               <item name="tiantian-manager-web" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tiantian-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tiantian-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="tiantian-manager-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tiantian-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tiantian-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="tiantian-manager-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -421,13 +542,20 @@
               <item name="webapp" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="tiantian-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tiantian-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="tiantian-manager-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -556,46 +684,56 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1523323960854</updated>
-      <workItem from="1523323967899" duration="21243000" />
+      <workItem from="1523323967899" duration="23891000" />
+      <workItem from="1523406993058" duration="707000" />
+      <workItem from="1523407769119" duration="2651000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21243000" />
+    <option name="totallyTimeSpent" value="27249000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43159065" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43159065" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32925472" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2553305" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -649,233 +787,388 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/resources/spring/springmvc.xml">
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbItemParamMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
-          <folding />
+        <state relative-caret-position="6318">
+          <caret line="243" column="61" lean-forward="false" selection-start-line="243" selection-start-column="61" selection-end-line="243" selection-end-column="61" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/java/com/tiantian/controller/PageController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#500#501#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/src/main/java/com/tiantian/pojo/TbContent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/src/main/java/com/tiantian/pojo/TbContentCategory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/src/main/java/com/tiantian/pojo/TbContentCategoryExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/src/main/java/com/tiantian/pojo/TbContentExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="7" column="53" lean-forward="false" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/src/main/java/com/tiantian/pojo/TbItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/src/main/java/com/tiantian/pojo/TbItemCat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/src/main/java/com/tiantian/pojo/TbItemCatExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="7" column="53" lean-forward="false" selection-start-line="7" selection-start-column="53" selection-end-line="7" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/src/main/java/com/tiantian/pojo/TbItemDesc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/src/main/java/com/tiantian/pojo/TbItemParam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/src/main/java/com/tiantian/pojo/TbItemParamExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="7" column="55" lean-forward="false" selection-start-line="7" selection-start-column="55" selection-end-line="7" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/src/main/java/com/tiantian/pojo/TbItemParamItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/src/main/java/com/tiantian/pojo/TbItemParamItemExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="7" column="59" lean-forward="false" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/src/main/java/com/tiantian/pojo/TbOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/src/main/java/com/tiantian/pojo/TbOrderExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="7" column="51" lean-forward="false" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/src/main/java/com/tiantian/pojo/TbOrderItem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/src/main/java/com/tiantian/pojo/TbOrderItemExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="6" column="55" lean-forward="false" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/src/main/java/com/tiantian/pojo/TbOrderShipping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/src/main/java/com/tiantian/pojo/TbOrderShippingExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="7" column="59" lean-forward="false" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/src/main/java/com/tiantian/pojo/TbUserExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="12" column="42" lean-forward="true" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbContentCategoryMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbContentMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbContentMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8918">
-          <caret line="343" column="61" lean-forward="false" selection-start-line="343" selection-start-column="61" selection-end-line="343" selection-end-column="61" />
-          <folding>
-            <marker date="1523350385459" expanded="true" signature="4652:4804" ph="select , fro... " />
-            <marker date="1523350385459" expanded="true" signature="4888:4947" ph="delete from " />
-            <marker date="1523350385459" expanded="true" signature="5048:5070" ph="delete from " />
-            <marker date="1523350385459" expanded="true" signature="5248:5728" ph="insert into tb_content... " />
-            <marker date="1523350385459" expanded="true" signature="7703:7734" ph="select count... tb_content" />
-            <marker date="1523350385459" expanded="true" signature="9288:9863" ph="update tb_co... " />
-            <marker date="1523350385459" expanded="true" signature="10036:10555" ph="update tb_co... " />
-            <marker date="1523350385459" expanded="true" signature="10764:11769" ph="update tb_co... " />
-            <marker date="1523350385459" expanded="true" signature="11875:12376" ph="update tb_co... " />
-            <marker date="1523350385459" expanded="true" signature="12473:12925" ph="update tb_co... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbItemCatMapper.java">
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbOrderItemMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
           <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbOrderItemMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6396">
+          <caret line="246" column="61" lean-forward="false" selection-start-line="246" selection-start-column="61" selection-end-line="246" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbOrderMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9880">
+          <caret line="380" column="61" lean-forward="false" selection-start-line="380" selection-start-column="61" selection-end-line="380" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbOrderShippingMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbOrderShippingMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7566">
+          <caret line="291" column="61" lean-forward="false" selection-start-line="291" selection-start-column="61" selection-end-line="291" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbUserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbUserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="3" column="59" lean-forward="false" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/src/main/java/com/tiantian/pojo/TbUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbOrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbContentCategoryMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/jsp/item-add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-common/src/main/java/com/tiantian/common/pojo/EasyUIDataGridResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-interface/src/main/java/com/tiantian/service/ItemService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/jsp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1872">
+          <caret line="72" column="7" lean-forward="true" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.pagination.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="131" column="20" lean-forward="true" selection-start-line="131" selection-start-column="20" selection-end-line="131" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.datagrid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="1667" column="26" lean-forward="true" selection-start-line="1667" selection-start-column="26" selection-end-line="1667" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/jsp/item-list.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="37" column="27" lean-forward="true" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/jsp/item-edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="80" column="8" lean-forward="true" selection-start-line="80" selection-start-column="8" selection-end-line="80" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/jsp/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/jsp/content-edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/jquery.easyui.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-936">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/jsp/content.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1546">
+          <caret line="21" column="20" lean-forward="true" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1716">
+          <caret line="1" column="9533" lean-forward="false" selection-start-line="1" selection-start-column="9533" selection-end-line="1" selection-end-column="9533" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.calendar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-104">
+          <caret line="200" column="37" lean-forward="false" selection-start-line="200" selection-start-column="37" selection-end-line="200" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/src/jquery.menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-130">
+          <caret line="271" column="26" lean-forward="true" selection-start-line="271" selection-start-column="26" selection-end-line="271" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/locale/easyui-lang-zh_CN.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/demo/layout/_content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/demo/layout/autoheight.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/demo/layout/basic.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/js/kindeditor-4.1.10/license.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/js/kindeditor-4.1.10/kindeditor-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/js/kindeditor-4.1.10/kindeditor-all-min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/js/kindeditor-4.1.10/kindeditor-all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9854">
+          <caret line="379" column="18" lean-forward="false" selection-start-line="379" selection-start-column="18" selection-end-line="379" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/js/jquery-easyui-1.4.1/plugins/jquery.combogrid.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/js/kindeditor-4.1.10/kindeditor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="148" column="11" lean-forward="true" selection-start-line="148" selection-start-column="11" selection-end-line="148" selection-end-column="11" />
+          <folding>
+            <marker date="1472979887000" expanded="true" signature="34583:34596" ph="..." />
+            <marker date="1472979887000" expanded="true" signature="46672:46685" ph="..." />
+            <marker date="1472979887000" expanded="true" signature="65268:65281" ph="..." />
+            <marker date="1472979887000" expanded="true" signature="72060:72066" ph="&amp;nbsp;" />
+            <marker date="1472979887000" expanded="true" signature="81682:81700" ph="..." />
+            <marker date="1472979887000" expanded="true" signature="81790:81819" ph="..." />
+            <marker date="1472979887000" expanded="true" signature="81906:81928" ph="..." />
+            <marker date="1472979887000" expanded="true" signature="82080:82104" ph="..." />
+            <marker date="1472979887000" expanded="true" signature="82653:82666" ph="..." />
+            <marker date="1472979887000" expanded="true" signature="89277:89291" ph="..." />
+            <marker date="1472979887000" expanded="true" signature="100363:100419" ph="..." />
+            <marker date="1472979887000" expanded="true" signature="109611:109624" ph="..." />
+            <marker date="1472979887000" expanded="true" signature="114969:115020" ph="..." />
+            <marker date="1472979887000" expanded="true" signature="143538:143556" ph="..." />
+            <marker date="1472979887000" expanded="true" signature="143589:143614" ph="..." />
+            <marker date="1472979887000" expanded="true" signature="149407:149432" ph="..." />
+            <marker date="1472979887000" expanded="true" signature="149894:149916" ph="..." />
+            <marker date="1472979887000" expanded="true" signature="150720:150732" ph="..." />
+            <marker date="1472979887000" expanded="true" signature="150803:150809" ph="©" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/java/com/tiantian/controller/ItemController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/3.4.2/pagehelper-3.4.2.jar!/com/github/pagehelper/PageHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="26" column="71" lean-forward="false" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="71" />
+          <folding>
+            <element signature="e#1224#1225#0" expanded="true" />
+            <element signature="e#1274#1275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/src/main/java/com/tiantian/service/impl/ItemServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="26" column="41" lean-forward="true" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="127" column="53" lean-forward="true" selection-start-line="127" selection-start-column="53" selection-end-line="127" selection-end-column="53" />
+          <folding>
+            <marker date="1472979887000" expanded="true" signature="1425:1435" ph="..." />
+            <marker date="1472979887000" expanded="true" signature="1847:1887" ph="..." />
+            <marker date="1472979887000" expanded="true" signature="3186:3203" ph="..." />
+            <marker date="1472979887000" expanded="true" signature="3273:3290" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-common/src/main/java/com/tiantian/common/pojo/EasyUITreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="8" column="51" lean-forward="false" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/resources/spring/springmvc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="24" column="71" lean-forward="true" selection-start-line="24" selection-start-column="71" selection-end-line="24" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/src/main/resources/spring/applicationContext-service.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-interface/src/main/java/com/tiantian/service/ItemCatService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/java/com/tiantian/controller/ItemCatController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="22" column="37" lean-forward="true" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbItemCatMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6396">
-          <caret line="246" column="61" lean-forward="false" selection-start-line="246" selection-start-column="61" selection-end-line="246" selection-end-column="61" />
+        <state relative-caret-position="638">
+          <caret line="87" column="11" lean-forward="true" selection-start-line="87" selection-start-column="11" selection-end-line="87" selection-end-column="11" />
           <folding>
             <marker date="1523350386339" expanded="true" signature="3788:3894" ph="select from tb_item_cat" />
             <marker date="1523350386339" expanded="true" signature="3978:4038" ph="delete from " />
@@ -889,309 +1182,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbItemDescMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbItemDescMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5902">
-          <caret line="227" column="61" lean-forward="false" selection-start-line="227" selection-start-column="61" selection-end-line="227" selection-end-column="61" />
-          <folding>
-            <marker date="1523350385729" expanded="true" signature="3265:3596" ph="select disti... " />
-            <marker date="1523350385729" expanded="true" signature="3734:4018" ph="select disti... tb_item_desc" />
-            <marker date="1523350385729" expanded="true" signature="4143:4306" ph="select , fro... " />
-            <marker date="1523350385729" expanded="true" signature="4390:4460" ph="delete from " />
-            <marker date="1523350385729" expanded="true" signature="4562:4586" ph="delete from " />
-            <marker date="1523350385729" expanded="true" signature="4765:4977" ph="insert into tb_item_desc... " />
-            <marker date="1523350385729" expanded="true" signature="5072:5812" ph="insert into tb_item_desc... " />
-            <marker date="1523350385729" expanded="true" signature="5968:6001" ph="select count... tb_item_desc" />
-            <marker date="1523350385729" expanded="true" signature="6173:6632" ph="update tb_it... " />
-            <marker date="1523350385729" expanded="true" signature="6837:7074" ph="update tb_it... " />
-            <marker date="1523350385729" expanded="true" signature="7247:7425" ph="update tb_it... " />
-            <marker date="1523350385729" expanded="true" signature="7635:8016" ph="update tb_it... " />
-            <marker date="1523350385729" expanded="true" signature="8123:8335" ph="update tb_it... " />
-            <marker date="1523350385729" expanded="true" signature="8433:8593" ph="update tb_it... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbItemMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbItemMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7540">
-          <caret line="290" column="61" lean-forward="false" selection-start-line="290" selection-start-column="61" selection-end-line="290" selection-end-column="61" />
-          <folding>
-            <marker date="1523350386676" expanded="true" signature="3972:4074" ph="select from tb_item" />
-            <marker date="1523350386676" expanded="true" signature="4158:4214" ph="delete from " />
-            <marker date="1523350386676" expanded="true" signature="4312:4331" ph="delete from " />
-            <marker date="1523350386676" expanded="true" signature="4506:4964" ph="insert into tb_item... " />
-            <marker date="1523350386676" expanded="true" signature="6899:6927" ph="select count... tb_item" />
-            <marker date="1523350386676" expanded="true" signature="8444:8997" ph="update tb_it... " />
-            <marker date="1523350386676" expanded="true" signature="9203:10180" ph="update tb_it... " />
-            <marker date="1523350386676" expanded="true" signature="10274:10753" ph="update tb_it... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbItemParamItemMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbItemParamItemMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6318">
-          <caret line="243" column="61" lean-forward="false" selection-start-line="243" selection-start-column="61" selection-end-line="243" selection-end-column="61" />
-          <folding>
-            <marker date="1523350385871" expanded="true" signature="4246:4406" ph="select , fro... " />
-            <marker date="1523350385871" expanded="true" signature="4490:4557" ph="delete from " />
-            <marker date="1523350385871" expanded="true" signature="4664:4694" ph="delete from " />
-            <marker date="1523350385871" expanded="true" signature="4878:5125" ph="insert into tb_item_param_item... " />
-            <marker date="1523350385871" expanded="true" signature="6263:6302" ph="select count... tb_item_param_item" />
-            <marker date="1523350385871" expanded="true" signature="7239:7525" ph="update tb_it... " />
-            <marker date="1523350385871" expanded="true" signature="7698:7923" ph="update tb_it... " />
-            <marker date="1523350385871" expanded="true" signature="8138:8610" ph="update tb_it... " />
-            <marker date="1523350385871" expanded="true" signature="8722:8976" ph="update tb_it... " />
-            <marker date="1523350385871" expanded="true" signature="9079:9279" ph="update tb_it... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbItemParamMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbItemParamMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6318">
-          <caret line="243" column="61" lean-forward="false" selection-start-line="243" selection-start-column="61" selection-end-line="243" selection-end-column="61" />
-          <folding>
-            <marker date="1523350386372" expanded="true" signature="4227:4382" ph="select , fro... " />
-            <marker date="1523350386372" expanded="true" signature="4466:4528" ph="delete from " />
-            <marker date="1523350386372" expanded="true" signature="4631:4656" ph="delete from " />
-            <marker date="1523350386372" expanded="true" signature="4836:5085" ph="insert into tb_item_param... " />
-            <marker date="1523350386372" expanded="true" signature="6223:6257" ph="select count... tb_item_param" />
-            <marker date="1523350386372" expanded="true" signature="7199:7487" ph="update tb_it... " />
-            <marker date="1523350386372" expanded="true" signature="7660:7887" ph="update tb_it... " />
-            <marker date="1523350386372" expanded="true" signature="8098:8575" ph="update tb_it... " />
-            <marker date="1523350386372" expanded="true" signature="8683:8939" ph="update tb_it... " />
-            <marker date="1523350386372" expanded="true" signature="9038:9240" ph="update tb_it... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbOrderItemMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbOrderItemMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6396">
-          <caret line="246" column="61" lean-forward="false" selection-start-line="246" selection-start-column="61" selection-end-line="246" selection-end-column="61" />
-          <folding>
-            <marker date="1523350386474" expanded="true" signature="3776:3885" ph="select from tb_order_item" />
-            <marker date="1523350386474" expanded="true" signature="3971:4034" ph="delete from " />
-            <marker date="1523350386474" expanded="true" signature="4137:4162" ph="delete from " />
-            <marker date="1523350386474" expanded="true" signature="4342:4688" ph="insert into tb_order_item... " />
-            <marker date="1523350386474" expanded="true" signature="6215:6249" ph="select count... tb_order_item" />
-            <marker date="1523350386474" expanded="true" signature="7463:7876" ph="update tb_or... " />
-            <marker date="1523350386474" expanded="true" signature="8087:8803" ph="update tb_or... " />
-            <marker date="1523350386474" expanded="true" signature="8902:9262" ph="update tb_or... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbOrderMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9880">
-          <caret line="380" column="61" lean-forward="false" selection-start-line="380" selection-start-column="61" selection-end-line="380" selection-end-column="61" />
-          <folding>
-            <marker date="1523350386868" expanded="true" signature="4665:4780" ph="select from tb_order" />
-            <marker date="1523350386868" expanded="true" signature="4866:4935" ph="delete from " />
-            <marker date="1523350386868" expanded="true" signature="5034:5054" ph="delete from " />
-            <marker date="1523350386868" expanded="true" signature="5230:6079" ph="insert into tb_order... " />
-            <marker date="1523350386868" expanded="true" signature="9149:9178" ph="select count... tb_order" />
-            <marker date="1523350386868" expanded="true" signature="11533:12533" ph="update tb_or... " />
-            <marker date="1523350386868" expanded="true" signature="12740:14466" ph="update tb_or... " />
-            <marker date="1523350386868" expanded="true" signature="14561:15445" ph="update tb_or... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbOrderShippingMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbOrderShippingMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7566">
-          <caret line="291" column="61" lean-forward="false" selection-start-line="291" selection-start-column="61" selection-end-line="291" selection-end-column="61" />
-          <folding>
-            <marker date="1523350386715" expanded="true" signature="4239:4363" ph="select from tb_order_shipping" />
-            <marker date="1523350386715" expanded="true" signature="4449:4527" ph="delete from " />
-            <marker date="1523350386715" expanded="true" signature="4634:4663" ph="delete from " />
-            <marker date="1523350386715" expanded="true" signature="4847:5462" ph="insert into tb_order_shipping... " />
-            <marker date="1523350386715" expanded="true" signature="7708:7746" ph="select count... tb_order_shipping" />
-            <marker date="1523350386715" expanded="true" signature="9488:10198" ph="update tb_or... " />
-            <marker date="1523350386715" expanded="true" signature="10413:11610" ph="update tb_or... " />
-            <marker date="1523350386715" expanded="true" signature="11713:12349" ph="update tb_or... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbUserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbUserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="3" column="59" lean-forward="false" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
-          <folding>
-            <marker date="1523350385380" expanded="true" signature="3689:3791" ph="select from tb_user" />
-            <marker date="1523350385380" expanded="true" signature="3875:3931" ph="delete from " />
-            <marker date="1523350385380" expanded="true" signature="4029:4048" ph="delete from " />
-            <marker date="1523350385380" expanded="true" signature="4223:4538" ph="insert into tb_user... " />
-            <marker date="1523350385380" expanded="true" signature="5926:5954" ph="select count... tb_user" />
-            <marker date="1523350385380" expanded="true" signature="7073:7441" ph="update tb_us... " />
-            <marker date="1523350385380" expanded="true" signature="7647:8282" ph="update tb_us... " />
-            <marker date="1523350385380" expanded="true" signature="8376:8698" ph="update tb_us... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/src/main/java/com/tiantian/pojo/TbUser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbOrderMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="19" lean-forward="false" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbContentCategoryMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-          <folding>
-            <marker date="1523350386639" expanded="true" signature="3820:3934" ph="select from tb_content_category" />
-            <marker date="1523350386639" expanded="true" signature="4018:4086" ph="delete from " />
-            <marker date="1523350386639" expanded="true" signature="4195:4226" ph="delete from " />
-            <marker date="1523350386639" expanded="true" signature="6571:6611" ph="select count... tb_content_category" />
-            <marker date="1523350386639" expanded="true" signature="7854:8288" ph="update tb_co... " />
-            <marker date="1523350386639" expanded="true" signature="8505:9250" ph="update tb_co... " />
-            <marker date="1523350386639" expanded="true" signature="9355:9736" ph="update tb_co... " />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/jsp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/jsp/item-add.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="754">
-          <caret line="29" column="30" lean-forward="true" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/webapp/WEB-INF/jsp/item-list.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="88" lean-forward="false" selection-start-line="2" selection-start-column="84" selection-end-line="2" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-common/src/main/java/com/tiantian/common/pojo/EasyUIDataGridResult.java">
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/src/main/java/com/tiantian/mapper/TbItemCatMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#525#526#0" expanded="true" />
-            <element signature="e#557#558#0" expanded="true" />
-            <element signature="e#587#588#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-            <element signature="e#647#648#0" expanded="true" />
-            <element signature="e#674#675#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-interface/src/main/java/com/tiantian/service/ItemService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="5" column="36" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <caret line="18" column="35" lean-forward="false" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/src/main/java/com/tiantian/service/impl/ItemServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/src/main/java/com/tiantian/pojo/TbItemCatExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="290">
+          <caret line="599" column="24" lean-forward="false" selection-start-line="599" selection-start-column="24" selection-end-line="599" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/src/main/java/com/tiantian/controller/ItemController.java">
+    <entry file="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/src/main/java/com/tiantian/service/impl/ItemCatServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        <state relative-caret-position="300">
+          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

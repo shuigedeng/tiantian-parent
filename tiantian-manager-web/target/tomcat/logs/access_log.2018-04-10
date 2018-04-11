@@ -16,3 +16,15 @@
 0:0:0:0:0:0:0:1 - - [10/Apr/2018:16:36:38 +0800] "GET /js/jquery-easyui-1.4.1/themes/default/images/layout_arrows.png HTTP/1.1" 200 319 http-bio-8080-exec-3 2
 0:0:0:0:0:0:0:1 - - [10/Apr/2018:16:36:38 +0800] "GET /js/jquery-easyui-1.4.1/themes/default/images/tabs_icons.png HTTP/1.1" 200 150 http-bio-8080-exec-8 2
 0:0:0:0:0:0:0:1 - - [10/Apr/2018:16:37:24 +0800] "GET / HTTP/1.1" 200 2671 http-bio-8080-exec-8 2
+0:0:0:0:0:0:0:1 - - [10/Apr/2018:17:33:06 +0800] "GET / HTTP/1.1" 200 2671 http-bio-8080-exec-1 100
+0:0:0:0:0:0:0:1 - - [10/Apr/2018:17:34:20 +0800] "GET /js/jquery-easyui-1.4.1/themes/default/images/loading.gif HTTP/1.1" 200 1737 http-bio-8080-exec-6 15
+0:0:0:0:0:0:0:1 - - [10/Apr/2018:17:34:20 +0800] "GET /item-list?_=1523352786499 HTTP/1.1" 200 6784 http-bio-8080-exec-5 537
+0:0:0:0:0:0:0:1 - - [10/Apr/2018:17:34:20 +0800] "GET /js/jquery-easyui-1.4.1/themes/default/images/pagination_icons.png HTTP/1.1" 200 628 http-bio-8080-exec-8 2
+0:0:0:0:0:0:0:1 - - [10/Apr/2018:17:34:20 +0800] "GET /js/jquery-easyui-1.4.1/themes/icons/edit_add.png HTTP/1.1" 200 1088 http-bio-8080-exec-7 2
+0:0:0:0:0:0:0:1 - - [10/Apr/2018:17:34:20 +0800] "GET /js/jquery-easyui-1.4.1/themes/icons/pencil.png HTTP/1.1" 200 713 http-bio-8080-exec-1 1
+0:0:0:0:0:0:0:1 - - [10/Apr/2018:17:34:20 +0800] "GET /js/jquery-easyui-1.4.1/themes/icons/cancel.png HTTP/1.1" 200 1133 http-bio-8080-exec-9 2
+0:0:0:0:0:0:0:1 - - [10/Apr/2018:17:34:20 +0800] "GET /js/jquery-easyui-1.4.1/themes/icons/edit_remove.png HTTP/1.1" 200 625 http-bio-8080-exec-10 1
+0:0:0:0:0:0:0:1 - - [10/Apr/2018:17:34:20 +0800] "GET /js/jquery-easyui-1.4.1/themes/icons/filesave.png HTTP/1.1" 200 898 http-bio-8080-exec-10 2
+0:0:0:0:0:0:0:1 - - [10/Apr/2018:17:34:22 +0800] "GET /item/list?page=1&rows=30 HTTP/1.1" 500 24368 http-bio-8080-exec-10 1109
+0:0:0:0:0:0:0:1 - - [10/Apr/2018:17:41:32 +0800] "GET /item-list?_=1523352786500 HTTP/1.1" 200 6784 http-bio-8080-exec-7 3
+0:0:0:0:0:0:0:1 - - [10/Apr/2018:17:41:32 +0800] "GET /item/list?page=1&rows=30 HTTP/1.1" 500 24368 http-bio-8080-exec-7 146

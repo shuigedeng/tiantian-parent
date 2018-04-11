@@ -23,6 +23,7 @@
     <!-- 引用dubbo服务 -->
     <dubbo:application name="tiantian-manager-web"/>
     <dubbo:registry protocol="zookeeper" address="114.55.253.31:2181"/>
-    <dubbo:reference interface="com.tiantian.service.ItemService" id="itemService" />
+    <dubbo:reference interface="com.tiantian.service.ItemService" id="itemService" timeout="3000"/>
+    <dubbo:reference interface="com.tiantian.service.ItemCatService" id="itemCatService" timeout="3000"/>
 
 </beans>
