@@ -35,5 +35,7 @@
     <dubbo:registry protocol="zookeeper" address="114.55.253.31:2181"/>
     <dubbo:reference interface="com.tiantian.service.ItemService" id="itemService" timeout="3000"/>
     <dubbo:reference interface="com.tiantian.service.ItemCatService" id="itemCatService" timeout="3000"/>
-
+    <dubbo:reference interface="com.tiantian.content.service.ContentCategoryService" id="contentCategoryService" timeout="3000"/>
+    <dubbo:reference interface="com.tiantian.content.service.ContentService" id="contentService" timeout="3000"/>
+    <dubbo:reference interface="com.tiantian.search.service.SearchItemService" id="searchItemService" timeout="1200000"/>
 </beans>

@@ -12,6 +12,15 @@
         <module>tiantian-manager</module>
         <module>tiantian-manager-web</module>
         <module>tiantian-portal-web</module>
+        <module>tiantian-content</module>
+        <module>tiantian-search</module>
+        <module>tiantian-search-web</module>
+        <module>tiantian-item-web</module>
+        <module>tiantian-sso</module>
+        <module>tiantian-sso-web</module>
+        <module>tiantian-cart-web</module>
+        <module>tiantian-order</module>
+        <module>tiantian-order-web</module>
     </modules>
     <packaging>pom</packaging>
 
