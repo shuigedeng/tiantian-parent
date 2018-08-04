@@ -1,24 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web" />
-    <file type="web" url="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service" />
-    <file type="web" url="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/tiantian-cart-web" />
+    <file type="web" url="file://$PROJECT_DIR$/tiantian-content/tiantian-content-service" />
+    <file type="web" url="file://$PROJECT_DIR$/tiantian-item-web" />
+    <file type="web" url="file://$PROJECT_DIR$/tiantian-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/tiantian-manager/tiantian-manager-service" />
+    <file type="web" url="file://$PROJECT_DIR$/tiantian-manager/tiantian-manager-web" />
+    <file type="web" url="file://$PROJECT_DIR$/tiantian-order-web" />
+    <file type="web" url="file://$PROJECT_DIR$/tiantian-order/tiantian-order-service" />
+    <file type="web" url="file://$PROJECT_DIR$/tiantian-search-web" />
+    <file type="web" url="file://$PROJECT_DIR$/tiantian-search/tiantian-search-service" />
+    <file type="web" url="file://$PROJECT_DIR$/tiantian-sso-web" />
+    <file type="web" url="file://$PROJECT_DIR$/tiantian-sso/tiantian-sso-service" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/../tiantian-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
-        <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/pom.xml" />
-        <option value="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-web/pom.xml" />
+        <option value="$PROJECT_DIR$/tiantian-manager/pom.xml" />
+        <option value="$PROJECT_DIR$/tiantian-manager/tiantian-manager-web/pom.xml" />
       </set>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/../tiantian-parent/out" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

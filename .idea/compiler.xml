@@ -6,25 +6,55 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="tiantian-cart-web" />
         <module name="tiantian-common" />
+        <module name="tiantian-content-interface" />
+        <module name="tiantian-content-service" />
+        <module name="tiantian-item-web" />
         <module name="tiantian-manager-dao" />
         <module name="tiantian-manager-interface" />
         <module name="tiantian-manager-pojo" />
         <module name="tiantian-manager-service" />
         <module name="tiantian-manager-web" />
+        <module name="tiantian-order-interface" />
+        <module name="tiantian-order-service" />
+        <module name="tiantian-order-web" />
         <module name="tiantian-portal-web" />
+        <module name="tiantian-search-interface" />
+        <module name="tiantian-search-service" />
+        <module name="tiantian-search-web" />
+        <module name="tiantian-sso-interface" />
+        <module name="tiantian-sso-service" />
+        <module name="tiantian-sso-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="tiantian-cart-web" target="1.7" />
       <module name="tiantian-common" target="1.7" />
+      <module name="tiantian-content" target="1.7" />
+      <module name="tiantian-content-interface" target="1.7" />
+      <module name="tiantian-content-service" target="1.7" />
+      <module name="tiantian-item-web" target="1.7" />
       <module name="tiantian-manager" target="1.7" />
       <module name="tiantian-manager-dao" target="1.7" />
       <module name="tiantian-manager-interface" target="1.7" />
       <module name="tiantian-manager-pojo" target="1.7" />
       <module name="tiantian-manager-service" target="1.7" />
       <module name="tiantian-manager-web" target="1.7" />
+      <module name="tiantian-order" target="1.7" />
+      <module name="tiantian-order-interface" target="1.7" />
+      <module name="tiantian-order-service" target="1.7" />
+      <module name="tiantian-order-web" target="1.7" />
       <module name="tiantian-parent" target="1.7" />
       <module name="tiantian-portal-web" target="1.7" />
+      <module name="tiantian-search" target="1.7" />
+      <module name="tiantian-search-interface" target="1.7" />
+      <module name="tiantian-search-service" target="1.7" />
+      <module name="tiantian-search-web" target="1.7" />
+      <module name="tiantian-sso" target="1.7" />
+      <module name="tiantian-sso-interface" target="1.7" />
+      <module name="tiantian-sso-service" target="1.7" />
+      <module name="tiantian-sso-web" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

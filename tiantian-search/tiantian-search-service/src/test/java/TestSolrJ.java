@@ -8,7 +8,6 @@ import org.junit.Test;
  * @create 2018/4/11 17:18
  */
 public class TestSolrJ {
-    @Test
     public void testSolrJAddDocument() throws Exception {
         // 创建一个SolrServer对象，即HttpSolrServer对象，需要指定solr服务的url
         // 如果有多个collection，则需要指定要操作哪个collection，如果只有一个，可以不指定

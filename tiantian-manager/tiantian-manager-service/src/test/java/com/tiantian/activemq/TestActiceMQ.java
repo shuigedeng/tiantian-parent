@@ -11,7 +11,6 @@ import javax.jms.*;
  * @create 2018/4/12 9:16
  */
 public class TestActiceMQ {
-    @Test
     public void testQueueProducer() throws Exception {
         /*
          * 1.创建一个连接工厂对象——ConnectionFactory对象，需要指定ActiceMQ服务的ip及端口号。

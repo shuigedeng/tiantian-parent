@@ -65,6 +65,7 @@
 </div>
 <script type="text/javascript">
 	var itemAddEditor ;
+
 	//页面初始化完毕后执行此方法
 	$(function(){
 		//创建富文本编辑器
@@ -75,6 +76,7 @@
 			//TAOTAO.changeItemParam(node, "itemAddForm");
 		}});
 	});
+
 	//提交表单
 	function submitForm(){
 		//有效性验证

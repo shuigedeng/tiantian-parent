@@ -1,3 +1,4 @@
-com\tiantian\controller\ItemController.class
-com\tiantian\controller\PageController.class
-com\tiantian\controller\ItemCatController.class
+com/tiantian/controller/ContentServiceController.class
+com/tiantian/controller/PictureController.class
+com/tiantian/controller/IndexManagerController.class
+com/tiantian/controller/ContentCategoryController.class

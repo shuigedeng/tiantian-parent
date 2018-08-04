@@ -1,0 +1,323 @@
+2018-08-04 09:58:23 INFO ?.?(?) : using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+2018-08-04 09:58:23 DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider.findCandidateComponents(286) : Identified candidate component class: file [/home/dengtao/myProject/java/tiantian-parent/tiantian-manager/tiantian-manager-dao/target/classes/com/tiantian/mapper/TbOrderItemMapper.class]
+2018-08-04 09:58:23 DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider.findCandidateComponents(286) : Identified candidate component class: file [/home/dengtao/myProject/java/tiantian-parent/tiantian-manager/tiantian-manager-dao/target/classes/com/tiantian/mapper/TbContentMapper.class]
+2018-08-04 09:58:23 DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider.findCandidateComponents(286) : Identified candidate component class: file [/home/dengtao/myProject/java/tiantian-parent/tiantian-manager/tiantian-manager-dao/target/classes/com/tiantian/mapper/TbOrderMapper.class]
+2018-08-04 09:58:23 DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider.findCandidateComponents(286) : Identified candidate component class: file [/home/dengtao/myProject/java/tiantian-parent/tiantian-manager/tiantian-manager-dao/target/classes/com/tiantian/mapper/TbItemMapper.class]
+2018-08-04 09:58:23 DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider.findCandidateComponents(286) : Identified candidate component class: file [/home/dengtao/myProject/java/tiantian-parent/tiantian-manager/tiantian-manager-dao/target/classes/com/tiantian/mapper/TbUserMapper.class]
+2018-08-04 09:58:23 DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider.findCandidateComponents(286) : Identified candidate component class: file [/home/dengtao/myProject/java/tiantian-parent/tiantian-manager/tiantian-manager-dao/target/classes/com/tiantian/mapper/TbItemCatMapper.class]
+2018-08-04 09:58:23 DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider.findCandidateComponents(286) : Identified candidate component class: file [/home/dengtao/myProject/java/tiantian-parent/tiantian-manager/tiantian-manager-dao/target/classes/com/tiantian/mapper/TbItemParamItemMapper.class]
+2018-08-04 09:58:23 DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider.findCandidateComponents(286) : Identified candidate component class: file [/home/dengtao/myProject/java/tiantian-parent/tiantian-manager/tiantian-manager-dao/target/classes/com/tiantian/mapper/TbItemDescMapper.class]
+2018-08-04 09:58:23 DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider.findCandidateComponents(286) : Identified candidate component class: file [/home/dengtao/myProject/java/tiantian-parent/tiantian-manager/tiantian-manager-dao/target/classes/com/tiantian/mapper/TbContentCategoryMapper.class]
+2018-08-04 09:58:23 DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider.findCandidateComponents(286) : Identified candidate component class: file [/home/dengtao/myProject/java/tiantian-parent/tiantian-manager/tiantian-manager-dao/target/classes/com/tiantian/mapper/TbItemParamMapper.class]
+2018-08-04 09:58:23 DEBUG org.springframework.context.annotation.ClassPathScanningCandidateComponentProvider.findCandidateComponents(286) : Identified candidate component class: file [/home/dengtao/myProject/java/tiantian-parent/tiantian-manager/tiantian-manager-dao/target/classes/com/tiantian/mapper/TbOrderShippingMapper.class]
+2018-08-04 09:58:23 DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(164) : Creating MapperFactoryBean with name 'tbOrderItemMapper' and 'com.tiantian.mapper.TbOrderItemMapper' mapperInterface
+2018-08-04 09:58:23 DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(200) : Enabling autowire by type for MapperFactoryBean with name 'tbOrderItemMapper'.
+2018-08-04 09:58:23 DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(164) : Creating MapperFactoryBean with name 'tbContentMapper' and 'com.tiantian.mapper.TbContentMapper' mapperInterface
+2018-08-04 09:58:23 DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(200) : Enabling autowire by type for MapperFactoryBean with name 'tbContentMapper'.
+2018-08-04 09:58:23 DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(164) : Creating MapperFactoryBean with name 'tbOrderMapper' and 'com.tiantian.mapper.TbOrderMapper' mapperInterface
+2018-08-04 09:58:23 DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(200) : Enabling autowire by type for MapperFactoryBean with name 'tbOrderMapper'.
+2018-08-04 09:58:23 DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(164) : Creating MapperFactoryBean with name 'tbItemMapper' and 'com.tiantian.mapper.TbItemMapper' mapperInterface
+2018-08-04 09:58:23 DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(200) : Enabling autowire by type for MapperFactoryBean with name 'tbItemMapper'.
+2018-08-04 09:58:23 DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(164) : Creating MapperFactoryBean with name 'tbUserMapper' and 'com.tiantian.mapper.TbUserMapper' mapperInterface
+2018-08-04 09:58:23 DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(200) : Enabling autowire by type for MapperFactoryBean with name 'tbUserMapper'.
+2018-08-04 09:58:23 DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(164) : Creating MapperFactoryBean with name 'tbItemCatMapper' and 'com.tiantian.mapper.TbItemCatMapper' mapperInterface
+2018-08-04 09:58:23 DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(200) : Enabling autowire by type for MapperFactoryBean with name 'tbItemCatMapper'.
+2018-08-04 09:58:23 DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(164) : Creating MapperFactoryBean with name 'tbItemParamItemMapper' and 'com.tiantian.mapper.TbItemParamItemMapper' mapperInterface
+2018-08-04 09:58:23 DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(200) : Enabling autowire by type for MapperFactoryBean with name 'tbItemParamItemMapper'.
+2018-08-04 09:58:23 DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(164) : Creating MapperFactoryBean with name 'tbItemDescMapper' and 'com.tiantian.mapper.TbItemDescMapper' mapperInterface
+2018-08-04 09:58:23 DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(200) : Enabling autowire by type for MapperFactoryBean with name 'tbItemDescMapper'.
+2018-08-04 09:58:23 DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(164) : Creating MapperFactoryBean with name 'tbContentCategoryMapper' and 'com.tiantian.mapper.TbContentCategoryMapper' mapperInterface
+2018-08-04 09:58:23 DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(200) : Enabling autowire by type for MapperFactoryBean with name 'tbContentCategoryMapper'.
+2018-08-04 09:58:23 DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(164) : Creating MapperFactoryBean with name 'tbItemParamMapper' and 'com.tiantian.mapper.TbItemParamMapper' mapperInterface
+2018-08-04 09:58:23 DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(200) : Enabling autowire by type for MapperFactoryBean with name 'tbItemParamMapper'.
+2018-08-04 09:58:23 DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(164) : Creating MapperFactoryBean with name 'tbOrderShippingMapper' and 'com.tiantian.mapper.TbOrderShippingMapper' mapperInterface
+2018-08-04 09:58:23 DEBUG org.mybatis.spring.mapper.ClassPathMapperScanner.doScan(200) : Enabling autowire by type for MapperFactoryBean with name 'tbOrderShippingMapper'.
+2018-08-04 09:58:24 DEBUG org.mybatis.spring.SqlSessionFactoryBean.buildSqlSessionFactory(431) : Parsed configuration file: 'class path resource [mybatis/SqlMapConfig.xml]'
+2018-08-04 09:58:24 DEBUG org.mybatis.spring.SqlSessionFactoryBean.buildSqlSessionFactory(477) : Property 'mapperLocations' was not specified or no matching resources found
+2018-08-04 09:58:24 DEBUG com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(943) :  [DUBBO] package com.alibaba.dubbo.rpc;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class Protocol$Adpative implements com.alibaba.dubbo.rpc.Protocol {
+public com.alibaba.dubbo.rpc.Invoker refer(java.lang.Class arg0, com.alibaba.dubbo.common.URL arg1) throws java.lang.Class {
+if (arg1 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg1;
+String extName = ( url.getProtocol() == null ? "dubbo" : url.getProtocol() );
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.rpc.Protocol) name from url(" + url.toString() + ") use keys([protocol])");
+com.alibaba.dubbo.rpc.Protocol extension = (com.alibaba.dubbo.rpc.Protocol)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.rpc.Protocol.class).getExtension(extName);
+return extension.refer(arg0, arg1);
+}
+public com.alibaba.dubbo.rpc.Exporter export(com.alibaba.dubbo.rpc.Invoker arg0) throws com.alibaba.dubbo.rpc.Invoker {
+if (arg0 == null) throw new IllegalArgumentException("com.alibaba.dubbo.rpc.Invoker argument == null");
+if (arg0.getUrl() == null) throw new IllegalArgumentException("com.alibaba.dubbo.rpc.Invoker argument getUrl() == null");com.alibaba.dubbo.common.URL url = arg0.getUrl();
+String extName = ( url.getProtocol() == null ? "dubbo" : url.getProtocol() );
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.rpc.Protocol) name from url(" + url.toString() + ") use keys([protocol])");
+com.alibaba.dubbo.rpc.Protocol extension = (com.alibaba.dubbo.rpc.Protocol)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.rpc.Protocol.class).getExtension(extName);
+return extension.export(arg0);
+}
+public void destroy() {throw new UnsupportedOperationException("method public abstract void com.alibaba.dubbo.rpc.Protocol.destroy() of interface com.alibaba.dubbo.rpc.Protocol is not adaptive method!");
+}
+public int getDefaultPort() {throw new UnsupportedOperationException("method public abstract int com.alibaba.dubbo.rpc.Protocol.getDefaultPort() of interface com.alibaba.dubbo.rpc.Protocol is not adaptive method!");
+}
+}, dubbo version: 2.5.3, current host: 127.0.0.1
+2018-08-04 09:58:24 DEBUG com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(943) :  [DUBBO] package com.alibaba.dubbo.rpc;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class ProxyFactory$Adpative implements com.alibaba.dubbo.rpc.ProxyFactory {
+public com.alibaba.dubbo.rpc.Invoker getInvoker(java.lang.Object arg0, java.lang.Class arg1, com.alibaba.dubbo.common.URL arg2) throws java.lang.Object {
+if (arg2 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg2;
+String extName = url.getParameter("proxy", "javassist");
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.rpc.ProxyFactory) name from url(" + url.toString() + ") use keys([proxy])");
+com.alibaba.dubbo.rpc.ProxyFactory extension = (com.alibaba.dubbo.rpc.ProxyFactory)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.rpc.ProxyFactory.class).getExtension(extName);
+return extension.getInvoker(arg0, arg1, arg2);
+}
+public java.lang.Object getProxy(com.alibaba.dubbo.rpc.Invoker arg0) throws com.alibaba.dubbo.rpc.Invoker {
+if (arg0 == null) throw new IllegalArgumentException("com.alibaba.dubbo.rpc.Invoker argument == null");
+if (arg0.getUrl() == null) throw new IllegalArgumentException("com.alibaba.dubbo.rpc.Invoker argument getUrl() == null");com.alibaba.dubbo.common.URL url = arg0.getUrl();
+String extName = url.getParameter("proxy", "javassist");
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.rpc.ProxyFactory) name from url(" + url.toString() + ") use keys([proxy])");
+com.alibaba.dubbo.rpc.ProxyFactory extension = (com.alibaba.dubbo.rpc.ProxyFactory)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.rpc.ProxyFactory.class).getExtension(extName);
+return extension.getProxy(arg0);
+}
+}, dubbo version: 2.5.3, current host: 127.0.0.1
+2018-08-04 09:58:24 INFO com.alibaba.dubbo.config.spring.ServiceBean.onApplicationEvent(107) :  [DUBBO] The service ready on spring started. service: com.tiantian.service.ItemService, dubbo version: 2.5.3, current host: 127.0.0.1
+2018-08-04 09:58:24 WARN com.alibaba.dubbo.config.ServiceConfig.doExportUrlsFor1Protocol(319) :  [DUBBO] 拒绝连接 (Connection refused), dubbo version: 2.5.3, current host: 127.0.0.1
+java.net.ConnectException: 拒绝连接 (Connection refused)
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at com.alibaba.dubbo.config.ServiceConfig.doExportUrlsFor1Protocol(ServiceConfig.java:310)
+	at com.alibaba.dubbo.config.ServiceConfig.doExportUrls(ServiceConfig.java:281)
+	at com.alibaba.dubbo.config.ServiceConfig.doExport(ServiceConfig.java:242)
+	at com.alibaba.dubbo.config.ServiceConfig.export(ServiceConfig.java:143)
+	at com.alibaba.dubbo.config.spring.ServiceBean.onApplicationEvent(ServiceBean.java:109)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.invokeListener(SimpleApplicationEventMulticaster.java:163)
+	at org.springframework.context.event.SimpleApplicationEventMulticaster.multicastEvent(SimpleApplicationEventMulticaster.java:136)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:381)
+	at org.springframework.context.support.AbstractApplicationContext.publishEvent(AbstractApplicationContext.java:335)
+	at org.springframework.context.support.AbstractApplicationContext.finishRefresh(AbstractApplicationContext.java:855)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:541)
+	at org.springframework.web.context.ContextLoader.configureAndRefreshWebApplicationContext(ContextLoader.java:446)
+	at org.springframework.web.context.ContextLoader.initWebApplicationContext(ContextLoader.java:328)
+	at org.springframework.web.context.ContextLoaderListener.contextInitialized(ContextLoaderListener.java:107)
+	at org.apache.catalina.core.StandardContext.listenerStart(StandardContext.java:4939)
+	at org.apache.catalina.core.StandardContext.startInternal(StandardContext.java:5434)
+	at org.apache.catalina.util.LifecycleBase.start(LifecycleBase.java:150)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1559)
+	at org.apache.catalina.core.ContainerBase$StartChild.call(ContainerBase.java:1549)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2018-08-04 09:58:24 DEBUG com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(943) :  [DUBBO] package com.alibaba.dubbo.cache;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class CacheFactory$Adpative implements com.alibaba.dubbo.cache.CacheFactory {
+public com.alibaba.dubbo.cache.Cache getCache(com.alibaba.dubbo.common.URL arg0) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = url.getParameter("cache", "lru");
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.cache.CacheFactory) name from url(" + url.toString() + ") use keys([cache])");
+com.alibaba.dubbo.cache.CacheFactory extension = (com.alibaba.dubbo.cache.CacheFactory)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.cache.CacheFactory.class).getExtension(extName);
+return extension.getCache(arg0);
+}
+}, dubbo version: 2.5.3, current host: 172.16.109.1
+2018-08-04 09:58:24 DEBUG com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(943) :  [DUBBO] package com.alibaba.dubbo.monitor;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class MonitorFactory$Adpative implements com.alibaba.dubbo.monitor.MonitorFactory {
+public com.alibaba.dubbo.monitor.Monitor getMonitor(com.alibaba.dubbo.common.URL arg0) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = ( url.getProtocol() == null ? "dubbo" : url.getProtocol() );
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.monitor.MonitorFactory) name from url(" + url.toString() + ") use keys([protocol])");
+com.alibaba.dubbo.monitor.MonitorFactory extension = (com.alibaba.dubbo.monitor.MonitorFactory)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.monitor.MonitorFactory.class).getExtension(extName);
+return extension.getMonitor(arg0);
+}
+}, dubbo version: 2.5.3, current host: 172.16.109.1
+2018-08-04 09:58:24 DEBUG com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(943) :  [DUBBO] package com.alibaba.dubbo.validation;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class Validation$Adpative implements com.alibaba.dubbo.validation.Validation {
+public com.alibaba.dubbo.validation.Validator getValidator(com.alibaba.dubbo.common.URL arg0) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = url.getParameter("validation", "jvalidation");
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.validation.Validation) name from url(" + url.toString() + ") use keys([validation])");
+com.alibaba.dubbo.validation.Validation extension = (com.alibaba.dubbo.validation.Validation)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.validation.Validation.class).getExtension(extName);
+return extension.getValidator(arg0);
+}
+}, dubbo version: 2.5.3, current host: 172.16.109.1
+2018-08-04 09:58:24 INFO com.alibaba.dubbo.config.ServiceConfig.exportLocal(510) :  [DUBBO] Export dubbo service com.tiantian.service.ItemService to local registry, dubbo version: 2.5.3, current host: 172.16.109.1
+2018-08-04 09:58:24 INFO com.alibaba.dubbo.config.ServiceConfig.doExportUrlsFor1Protocol(470) :  [DUBBO] Export dubbo service com.tiantian.service.ItemService to url dubbo://172.16.109.1:20880/com.tiantian.service.ItemService?anyhost=true&application=tiantian-manager&dubbo=2.5.3&interface=com.tiantian.service.ItemService&methods=getItemList,addItem,getItemDesc,getItemById&pid=8791&side=provider&timeout=3000&timestamp=1533347904675, dubbo version: 2.5.3, current host: 172.16.109.1
+2018-08-04 09:58:24 INFO com.alibaba.dubbo.config.ServiceConfig.doExportUrlsFor1Protocol(481) :  [DUBBO] Register dubbo service com.tiantian.service.ItemService url dubbo://172.16.109.1:20880/com.tiantian.service.ItemService?anyhost=true&application=tiantian-manager&dubbo=2.5.3&interface=com.tiantian.service.ItemService&methods=getItemList,addItem,getItemDesc,getItemById&pid=8791&side=provider&timeout=3000&timestamp=1533347904675 to registry registry://114.55.253.31:2181/com.alibaba.dubbo.registry.RegistryService?application=tiantian-manager&dubbo=2.5.3&pid=8791&registry=zookeeper&timestamp=1533347904616, dubbo version: 2.5.3, current host: 172.16.109.1
+2018-08-04 09:58:24 DEBUG com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(943) :  [DUBBO] package com.alibaba.dubbo.registry;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class RegistryFactory$Adpative implements com.alibaba.dubbo.registry.RegistryFactory {
+public com.alibaba.dubbo.registry.Registry getRegistry(com.alibaba.dubbo.common.URL arg0) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = ( url.getProtocol() == null ? "dubbo" : url.getProtocol() );
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.registry.RegistryFactory) name from url(" + url.toString() + ") use keys([protocol])");
+com.alibaba.dubbo.registry.RegistryFactory extension = (com.alibaba.dubbo.registry.RegistryFactory)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.registry.RegistryFactory.class).getExtension(extName);
+return extension.getRegistry(arg0);
+}
+}, dubbo version: 2.5.3, current host: 172.16.109.1
+2018-08-04 09:58:24 DEBUG com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(943) :  [DUBBO] package com.alibaba.dubbo.rpc.cluster;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class Cluster$Adpative implements com.alibaba.dubbo.rpc.cluster.Cluster {
+public com.alibaba.dubbo.rpc.Invoker join(com.alibaba.dubbo.rpc.cluster.Directory arg0) throws com.alibaba.dubbo.rpc.cluster.Directory {
+if (arg0 == null) throw new IllegalArgumentException("com.alibaba.dubbo.rpc.cluster.Directory argument == null");
+if (arg0.getUrl() == null) throw new IllegalArgumentException("com.alibaba.dubbo.rpc.cluster.Directory argument getUrl() == null");com.alibaba.dubbo.common.URL url = arg0.getUrl();
+String extName = url.getParameter("cluster", "failover");
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.rpc.cluster.Cluster) name from url(" + url.toString() + ") use keys([cluster])");
+com.alibaba.dubbo.rpc.cluster.Cluster extension = (com.alibaba.dubbo.rpc.cluster.Cluster)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.rpc.cluster.Cluster.class).getExtension(extName);
+return extension.join(arg0);
+}
+}, dubbo version: 2.5.3, current host: 172.16.109.1
+2018-08-04 09:58:24 DEBUG com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(943) :  [DUBBO] package com.alibaba.dubbo.remoting;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class Transporter$Adpative implements com.alibaba.dubbo.remoting.Transporter {
+public com.alibaba.dubbo.remoting.Server bind(com.alibaba.dubbo.common.URL arg0, com.alibaba.dubbo.remoting.ChannelHandler arg1) throws com.alibaba.dubbo.common.URL {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = url.getParameter("server", url.getParameter("transporter", "netty"));
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.remoting.Transporter) name from url(" + url.toString() + ") use keys([server, transporter])");
+com.alibaba.dubbo.remoting.Transporter extension = (com.alibaba.dubbo.remoting.Transporter)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.remoting.Transporter.class).getExtension(extName);
+return extension.bind(arg0, arg1);
+}
+public com.alibaba.dubbo.remoting.Client connect(com.alibaba.dubbo.common.URL arg0, com.alibaba.dubbo.remoting.ChannelHandler arg1) throws com.alibaba.dubbo.common.URL {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = url.getParameter("client", url.getParameter("transporter", "netty"));
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.remoting.Transporter) name from url(" + url.toString() + ") use keys([client, transporter])");
+com.alibaba.dubbo.remoting.Transporter extension = (com.alibaba.dubbo.remoting.Transporter)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.remoting.Transporter.class).getExtension(extName);
+return extension.connect(arg0, arg1);
+}
+}, dubbo version: 2.5.3, current host: 172.16.109.1
+2018-08-04 09:58:24 DEBUG com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(943) :  [DUBBO] package com.alibaba.dubbo.remoting;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class Dispatcher$Adpative implements com.alibaba.dubbo.remoting.Dispatcher {
+public com.alibaba.dubbo.remoting.ChannelHandler dispatch(com.alibaba.dubbo.remoting.ChannelHandler arg0, com.alibaba.dubbo.common.URL arg1) {
+if (arg1 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg1;
+String extName = url.getParameter("dispatcher", url.getParameter("dispather", url.getParameter("channel.handler", "all")));
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.remoting.Dispatcher) name from url(" + url.toString() + ") use keys([dispatcher, dispather, channel.handler])");
+com.alibaba.dubbo.remoting.Dispatcher extension = (com.alibaba.dubbo.remoting.Dispatcher)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.remoting.Dispatcher.class).getExtension(extName);
+return extension.dispatch(arg0, arg1);
+}
+}, dubbo version: 2.5.3, current host: 172.16.109.1
+2018-08-04 09:58:24 DEBUG com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(943) :  [DUBBO] package com.alibaba.dubbo.common.threadpool;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class ThreadPool$Adpative implements com.alibaba.dubbo.common.threadpool.ThreadPool {
+public java.util.concurrent.Executor getExecutor(com.alibaba.dubbo.common.URL arg0) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = url.getParameter("threadpool", "fixed");
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.common.threadpool.ThreadPool) name from url(" + url.toString() + ") use keys([threadpool])");
+com.alibaba.dubbo.common.threadpool.ThreadPool extension = (com.alibaba.dubbo.common.threadpool.ThreadPool)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.common.threadpool.ThreadPool.class).getExtension(extName);
+return extension.getExecutor(arg0);
+}
+}, dubbo version: 2.5.3, current host: 172.16.109.1
+2018-08-04 09:58:24 DEBUG com.alibaba.dubbo.remoting.transport.netty.NettyHelper$DubboLogger.debug(70) :  [DUBBO] Using select timeout of 500, dubbo version: 2.5.3, current host: 172.16.109.1
+2018-08-04 09:58:24 DEBUG com.alibaba.dubbo.remoting.transport.netty.NettyHelper$DubboLogger.debug(70) :  [DUBBO] Epoll-bug workaround enabled = false, dubbo version: 2.5.3, current host: 172.16.109.1
+2018-08-04 09:58:24 INFO com.alibaba.dubbo.remoting.transport.AbstractServer.<init>(69) :  [DUBBO] Start NettyServer bind /0.0.0.0:20880, export /172.16.109.1:20880, dubbo version: 2.5.3, current host: 172.16.109.1
+2018-08-04 09:58:24 DEBUG com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(943) :  [DUBBO] package com.alibaba.dubbo.remoting.zookeeper;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class ZookeeperTransporter$Adpative implements com.alibaba.dubbo.remoting.zookeeper.ZookeeperTransporter {
+public com.alibaba.dubbo.remoting.zookeeper.ZookeeperClient connect(com.alibaba.dubbo.common.URL arg0) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = url.getParameter("client", url.getParameter("transporter", "zkclient"));
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.remoting.zookeeper.ZookeeperTransporter) name from url(" + url.toString() + ") use keys([client, transporter])");
+com.alibaba.dubbo.remoting.zookeeper.ZookeeperTransporter extension = (com.alibaba.dubbo.remoting.zookeeper.ZookeeperTransporter)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.remoting.zookeeper.ZookeeperTransporter.class).getExtension(extName);
+return extension.connect(arg0);
+}
+}, dubbo version: 2.5.3, current host: 172.16.109.1
+2018-08-04 09:58:24 DEBUG org.I0Itec.zkclient.ZkConnection.connect(63) : Creating new ZookKeeper instance to connect to 114.55.253.31:2181.
+2018-08-04 09:58:24 INFO org.I0Itec.zkclient.ZkEventThread.run(64) : Starting ZkClient event thread.
+2018-08-04 09:58:24 DEBUG org.I0Itec.zkclient.ZkClient.connect(874) : Awaiting connection to Zookeeper server
+2018-08-04 09:58:24 DEBUG org.I0Itec.zkclient.ZkClient.waitForKeeperState(628) : Waiting for keeper state SyncConnected
+2018-08-04 09:59:07 INFO ?.?(?) : using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+2018-08-04 09:59:07 DEBUG com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(943) :  [DUBBO] package com.alibaba.dubbo.rpc;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class Protocol$Adpative implements com.alibaba.dubbo.rpc.Protocol {
+public com.alibaba.dubbo.rpc.Exporter export(com.alibaba.dubbo.rpc.Invoker arg0) throws com.alibaba.dubbo.rpc.Invoker {
+if (arg0 == null) throw new IllegalArgumentException("com.alibaba.dubbo.rpc.Invoker argument == null");
+if (arg0.getUrl() == null) throw new IllegalArgumentException("com.alibaba.dubbo.rpc.Invoker argument getUrl() == null");com.alibaba.dubbo.common.URL url = arg0.getUrl();
+String extName = ( url.getProtocol() == null ? "dubbo" : url.getProtocol() );
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.rpc.Protocol) name from url(" + url.toString() + ") use keys([protocol])");
+com.alibaba.dubbo.rpc.Protocol extension = (com.alibaba.dubbo.rpc.Protocol)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.rpc.Protocol.class).getExtension(extName);
+return extension.export(arg0);
+}
+public com.alibaba.dubbo.rpc.Invoker refer(java.lang.Class arg0, com.alibaba.dubbo.common.URL arg1) throws java.lang.Class {
+if (arg1 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg1;
+String extName = ( url.getProtocol() == null ? "dubbo" : url.getProtocol() );
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.rpc.Protocol) name from url(" + url.toString() + ") use keys([protocol])");
+com.alibaba.dubbo.rpc.Protocol extension = (com.alibaba.dubbo.rpc.Protocol)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.rpc.Protocol.class).getExtension(extName);
+return extension.refer(arg0, arg1);
+}
+public void destroy() {throw new UnsupportedOperationException("method public abstract void com.alibaba.dubbo.rpc.Protocol.destroy() of interface com.alibaba.dubbo.rpc.Protocol is not adaptive method!");
+}
+public int getDefaultPort() {throw new UnsupportedOperationException("method public abstract int com.alibaba.dubbo.rpc.Protocol.getDefaultPort() of interface com.alibaba.dubbo.rpc.Protocol is not adaptive method!");
+}
+}, dubbo version: 2.5.3, current host: 127.0.0.1
+2018-08-04 09:59:07 DEBUG com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(943) :  [DUBBO] package com.alibaba.dubbo.rpc.cluster;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class Cluster$Adpative implements com.alibaba.dubbo.rpc.cluster.Cluster {
+public com.alibaba.dubbo.rpc.Invoker join(com.alibaba.dubbo.rpc.cluster.Directory arg0) throws com.alibaba.dubbo.rpc.cluster.Directory {
+if (arg0 == null) throw new IllegalArgumentException("com.alibaba.dubbo.rpc.cluster.Directory argument == null");
+if (arg0.getUrl() == null) throw new IllegalArgumentException("com.alibaba.dubbo.rpc.cluster.Directory argument getUrl() == null");com.alibaba.dubbo.common.URL url = arg0.getUrl();
+String extName = url.getParameter("cluster", "failover");
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.rpc.cluster.Cluster) name from url(" + url.toString() + ") use keys([cluster])");
+com.alibaba.dubbo.rpc.cluster.Cluster extension = (com.alibaba.dubbo.rpc.cluster.Cluster)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.rpc.cluster.Cluster.class).getExtension(extName);
+return extension.join(arg0);
+}
+}, dubbo version: 2.5.3, current host: 127.0.0.1
+2018-08-04 09:59:07 DEBUG com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(943) :  [DUBBO] package com.alibaba.dubbo.rpc;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class ProxyFactory$Adpative implements com.alibaba.dubbo.rpc.ProxyFactory {
+public com.alibaba.dubbo.rpc.Invoker getInvoker(java.lang.Object arg0, java.lang.Class arg1, com.alibaba.dubbo.common.URL arg2) throws java.lang.Object {
+if (arg2 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg2;
+String extName = url.getParameter("proxy", "javassist");
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.rpc.ProxyFactory) name from url(" + url.toString() + ") use keys([proxy])");
+com.alibaba.dubbo.rpc.ProxyFactory extension = (com.alibaba.dubbo.rpc.ProxyFactory)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.rpc.ProxyFactory.class).getExtension(extName);
+return extension.getInvoker(arg0, arg1, arg2);
+}
+public java.lang.Object getProxy(com.alibaba.dubbo.rpc.Invoker arg0) throws com.alibaba.dubbo.rpc.Invoker {
+if (arg0 == null) throw new IllegalArgumentException("com.alibaba.dubbo.rpc.Invoker argument == null");
+if (arg0.getUrl() == null) throw new IllegalArgumentException("com.alibaba.dubbo.rpc.Invoker argument getUrl() == null");com.alibaba.dubbo.common.URL url = arg0.getUrl();
+String extName = url.getParameter("proxy", "javassist");
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.rpc.ProxyFactory) name from url(" + url.toString() + ") use keys([proxy])");
+com.alibaba.dubbo.rpc.ProxyFactory extension = (com.alibaba.dubbo.rpc.ProxyFactory)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.rpc.ProxyFactory.class).getExtension(extName);
+return extension.getProxy(arg0);
+}
+}, dubbo version: 2.5.3, current host: 127.0.0.1
+2018-08-04 09:59:07 DEBUG com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(943) :  [DUBBO] package com.alibaba.dubbo.registry;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class RegistryFactory$Adpative implements com.alibaba.dubbo.registry.RegistryFactory {
+public com.alibaba.dubbo.registry.Registry getRegistry(com.alibaba.dubbo.common.URL arg0) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = ( url.getProtocol() == null ? "dubbo" : url.getProtocol() );
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.registry.RegistryFactory) name from url(" + url.toString() + ") use keys([protocol])");
+com.alibaba.dubbo.registry.RegistryFactory extension = (com.alibaba.dubbo.registry.RegistryFactory)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.registry.RegistryFactory.class).getExtension(extName);
+return extension.getRegistry(arg0);
+}
+}, dubbo version: 2.5.3, current host: 127.0.0.1
+2018-08-04 09:59:07 DEBUG com.alibaba.dubbo.common.extension.ExtensionLoader.createAdaptiveExtensionClassCode(943) :  [DUBBO] package com.alibaba.dubbo.remoting.zookeeper;
+import com.alibaba.dubbo.common.extension.ExtensionLoader;
+public class ZookeeperTransporter$Adpative implements com.alibaba.dubbo.remoting.zookeeper.ZookeeperTransporter {
+public com.alibaba.dubbo.remoting.zookeeper.ZookeeperClient connect(com.alibaba.dubbo.common.URL arg0) {
+if (arg0 == null) throw new IllegalArgumentException("url == null");
+com.alibaba.dubbo.common.URL url = arg0;
+String extName = url.getParameter("client", url.getParameter("transporter", "zkclient"));
+if(extName == null) throw new IllegalStateException("Fail to get extension(com.alibaba.dubbo.remoting.zookeeper.ZookeeperTransporter) name from url(" + url.toString() + ") use keys([client, transporter])");
+com.alibaba.dubbo.remoting.zookeeper.ZookeeperTransporter extension = (com.alibaba.dubbo.remoting.zookeeper.ZookeeperTransporter)ExtensionLoader.getExtensionLoader(com.alibaba.dubbo.remoting.zookeeper.ZookeeperTransporter.class).getExtension(extName);
+return extension.connect(arg0);
+}
+}, dubbo version: 2.5.3, current host: 127.0.0.1
+2018-08-04 09:59:07 DEBUG org.I0Itec.zkclient.ZkConnection.connect(63) : Creating new ZookKeeper instance to connect to 114.55.253.31:2181.
+2018-08-04 09:59:07 INFO org.I0Itec.zkclient.ZkEventThread.run(64) : Starting ZkClient event thread.
+2018-08-04 09:59:07 DEBUG org.I0Itec.zkclient.ZkClient.connect(874) : Awaiting connection to Zookeeper server
+2018-08-04 09:59:07 DEBUG org.I0Itec.zkclient.ZkClient.waitForKeeperState(628) : Waiting for keeper state SyncConnected

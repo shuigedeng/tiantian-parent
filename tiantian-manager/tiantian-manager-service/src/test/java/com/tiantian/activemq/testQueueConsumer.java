@@ -10,7 +10,6 @@ import javax.jms.*;
  * @create 2018/4/12 9:21
  */
 public class testQueueConsumer {
-    @Test
     public void testQueueConsumer() throws Exception {
         // 1.创建一个连接工厂对象
         ConnectionFactory connectionFactory = new ActiveMQConnectionFactory("tcp://114.55.253.31:61617");

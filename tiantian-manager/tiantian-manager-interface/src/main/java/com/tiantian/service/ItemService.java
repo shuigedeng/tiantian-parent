@@ -6,7 +6,7 @@ import com.tiantian.pojo.TbItem;
 import com.tiantian.pojo.TbItemDesc;
 
 public interface ItemService {
-    public EasyUIDataGridResult getItemList(int page, int rows);
+    EasyUIDataGridResult getItemList(int page, int rows);
 
     TaotaoResult addItem(TbItem tbItem, String desc);
 

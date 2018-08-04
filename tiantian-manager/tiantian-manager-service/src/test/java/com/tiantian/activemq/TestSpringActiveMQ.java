@@ -13,7 +13,6 @@ import javax.jms.*;
  * @create 2018/4/12 9:27
  */
 public class TestSpringActiveMQ {
-    @Test
     public void testQueueProducer() {
         // 初始化Spring容器
         ApplicationContext applicationContext = new

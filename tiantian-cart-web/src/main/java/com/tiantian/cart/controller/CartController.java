@@ -46,7 +46,7 @@ public class CartController {
              * 因为那样比较的是对象的地址而不是值，为了让它们比较的是值，那么可以使用.longValue来获取值
              */
             if (tbItem.getId() == itemId.longValue()) {
-                // 购物车列表中存在此商品，数量要相加
+                // 购物车列表中存在此商品，数量要相
                 // 如果有，则商品数量相加
                 tbItem.setNum(tbItem.getNum() + num); // 可以用商品的库存字段来作为购物车商品数量
                 flag = true;

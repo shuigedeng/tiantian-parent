@@ -14,7 +14,6 @@ import java.util.Map;
  * @create 2018/4/12 10:05
  */
 public class FreemarkerTest {
-    @Test
     public void testFreemarkerFirst() throws Exception {
         // 创建一个Configuration对象
         Configuration configuration = new Configuration(Configuration.getVersion());

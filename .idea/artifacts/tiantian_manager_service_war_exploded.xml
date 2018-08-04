@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="exploded-war" name="tiantian-manager-service:war exploded">
-    <output-path>$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/target/tiantian-manager-service</output-path>
+    <output-path>$PROJECT_DIR$/tiantian-manager/tiantian-manager-service/target/tiantian-manager-service</output-path>
     <root id="root">
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
@@ -41,6 +41,9 @@
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.4.2" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.4.0" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.4.2" />
+          <element id="library" level="project" name="Maven: org.apache.activemq:activemq-all:5.11.2" />
+          <element id="library" level="project" name="Maven: redis.clients:jedis:2.7.2" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-pool2:2.3" />
           <element id="library" level="project" name="Maven: com.alibaba:dubbo:2.5.3" />
           <element id="library" level="project" name="Maven: org.javassist:javassist:3.15.0-GA" />
           <element id="library" level="project" name="Maven: org.apache.zookeeper:zookeeper:3.4.7" />
@@ -62,13 +65,11 @@
           <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.6" />
           <element id="library" level="project" name="Maven: org.quartz-scheduler:quartz:2.2.2" />
           <element id="library" level="project" name="Maven: c3p0:c3p0:0.9.1.1" />
-          <element id="library" level="project" name="Maven: redis.clients:jedis:2.7.2" />
-          <element id="library" level="project" name="Maven: org.apache.commons:commons-pool2:2.3" />
-          <element id="library" level="project" name="Maven: org.csource:fastdfs-client:1.27-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: cn.bestwu:fastdfs-client-java:1.27" />
         </element>
       </element>
       <element id="directory" name="META-INF">
-        <element id="file-copy" path="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/target/tiantian-manager-service/META-INF/MANIFEST.MF" />
+        <element id="file-copy" path="$PROJECT_DIR$/tiantian-manager/tiantian-manager-service/target/tiantian-manager-service/META-INF/MANIFEST.MF" />
       </element>
       <element id="javaee-facet-resources" facet="tiantian-manager-service/web/Web" />
     </root>

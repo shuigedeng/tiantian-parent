@@ -9,7 +9,8 @@
 
     <!-- 数据库连接池 -->
     <!-- 加载配置文件 -->
-    <context:property-placeholder location="classpath:properties/db.properties" />
+    <context:property-placeholder location="classpath:properties/*.properties" />
+
     <!-- 数据库连接池 -->
     <bean id="dataSource" class="com.alibaba.druid.pool.DruidDataSource"
           destroy-method="close">
@@ -20,6 +21,7 @@
         <property name="maxActive" value="10" />
         <property name="minIdle" value="5" />
     </bean>
+
     <!-- 让spring管理sqlsessionfactory 使用mybatis和spring整合包中的 -->
     <bean id="sqlSessionFactory" class="org.mybatis.spring.SqlSessionFactoryBean">
         <!-- 数据库连接池 -->
@@ -27,6 +29,7 @@
         <!-- 加载mybatis的全局配置文件 -->
         <property name="configLocation" value="classpath:mybatis/SqlMapConfig.xml" />
     </bean>
+
     <bean class="org.mybatis.spring.mapper.MapperScannerConfigurer">
         <property name="basePackage" value="com.tiantian.mapper" />
     </bean>

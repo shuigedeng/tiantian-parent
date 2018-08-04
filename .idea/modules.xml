@@ -2,15 +2,32 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../tiantian-parent/tiantian-common/tiantian-common.iml" filepath="$PROJECT_DIR$/../tiantian-parent/tiantian-common/tiantian-common.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager.iml" filepath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/tiantian-manager-dao.iml" filepath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-dao/tiantian-manager-dao.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-interface/tiantian-manager-interface.iml" filepath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-interface/tiantian-manager-interface.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/tiantian-manager-pojo.iml" filepath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-pojo/tiantian-manager-pojo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/tiantian-manager-service.iml" filepath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager/tiantian-manager-service/tiantian-manager-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/tiantian-manager-web.iml" filepath="$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/tiantian-manager-web.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../tiantian-parent/tiantian-parent.iml" filepath="$PROJECT_DIR$/../tiantian-parent/tiantian-parent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../tiantian-parent/tiantian-portal-web/tiantian-portal-web.iml" filepath="$PROJECT_DIR$/../tiantian-parent/tiantian-portal-web/tiantian-portal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-cart-web/tiantian-cart-web.iml" filepath="$PROJECT_DIR$/tiantian-cart-web/tiantian-cart-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-common/tiantian-common.iml" filepath="$PROJECT_DIR$/tiantian-common/tiantian-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-content/tiantian-content.iml" filepath="$PROJECT_DIR$/tiantian-content/tiantian-content.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-content/tiantian-content-interface/tiantian-content-interface.iml" filepath="$PROJECT_DIR$/tiantian-content/tiantian-content-interface/tiantian-content-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-content/tiantian-content-service/tiantian-content-service.iml" filepath="$PROJECT_DIR$/tiantian-content/tiantian-content-service/tiantian-content-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-item-web/tiantian-item-web.iml" filepath="$PROJECT_DIR$/tiantian-item-web/tiantian-item-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-manager/tiantian-manager.iml" filepath="$PROJECT_DIR$/tiantian-manager/tiantian-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-manager/tiantian-manager-dao/tiantian-manager-dao.iml" filepath="$PROJECT_DIR$/tiantian-manager/tiantian-manager-dao/tiantian-manager-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-manager/tiantian-manager-interface/tiantian-manager-interface.iml" filepath="$PROJECT_DIR$/tiantian-manager/tiantian-manager-interface/tiantian-manager-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-manager/tiantian-manager-pojo/tiantian-manager-pojo.iml" filepath="$PROJECT_DIR$/tiantian-manager/tiantian-manager-pojo/tiantian-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-manager/tiantian-manager-service/tiantian-manager-service.iml" filepath="$PROJECT_DIR$/tiantian-manager/tiantian-manager-service/tiantian-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-manager-web/tiantian-manager-web.iml" filepath="$PROJECT_DIR$/tiantian-manager-web/tiantian-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-order/tiantian-order.iml" filepath="$PROJECT_DIR$/tiantian-order/tiantian-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-order/tiantian-order-interface/tiantian-order-interface.iml" filepath="$PROJECT_DIR$/tiantian-order/tiantian-order-interface/tiantian-order-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-order/tiantian-order-service/tiantian-order-service.iml" filepath="$PROJECT_DIR$/tiantian-order/tiantian-order-service/tiantian-order-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-order-web/tiantian-order-web.iml" filepath="$PROJECT_DIR$/tiantian-order-web/tiantian-order-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-parent.iml" filepath="$PROJECT_DIR$/tiantian-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-portal-web/tiantian-portal-web.iml" filepath="$PROJECT_DIR$/tiantian-portal-web/tiantian-portal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-search/tiantian-search.iml" filepath="$PROJECT_DIR$/tiantian-search/tiantian-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-search/tiantian-search-interface/tiantian-search-interface.iml" filepath="$PROJECT_DIR$/tiantian-search/tiantian-search-interface/tiantian-search-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-search/tiantian-search-service/tiantian-search-service.iml" filepath="$PROJECT_DIR$/tiantian-search/tiantian-search-service/tiantian-search-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-search-web/tiantian-search-web.iml" filepath="$PROJECT_DIR$/tiantian-search-web/tiantian-search-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-sso/tiantian-sso.iml" filepath="$PROJECT_DIR$/tiantian-sso/tiantian-sso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-sso/tiantian-sso-interface/tiantian-sso-interface.iml" filepath="$PROJECT_DIR$/tiantian-sso/tiantian-sso-interface/tiantian-sso-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-sso/tiantian-sso-service/tiantian-sso-service.iml" filepath="$PROJECT_DIR$/tiantian-sso/tiantian-sso-service/tiantian-sso-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tiantian-sso-web/tiantian-sso-web.iml" filepath="$PROJECT_DIR$/tiantian-sso-web/tiantian-sso-web.iml" />
     </modules>
   </component>
 </project>

@@ -8,6 +8,7 @@ public class SearchResult implements Serializable{
 	private long totalPages;
 	private long recordCount;
 	private List<SearchItem> itemList;
+
 	public long getTotalPages() {
 		return totalPages;
 	}

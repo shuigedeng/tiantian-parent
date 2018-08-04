@@ -110,9 +110,13 @@
             <artifactId>commons-fileupload</artifactId>
         </dependency>
 
+        <!--<dependency>-->
+            <!--<groupId>org.csource</groupId>-->
+            <!--<artifactId>fastdfs-client</artifactId>-->
+        <!--</dependency>-->
         <dependency>
-            <groupId>org.csource</groupId>
-            <artifactId>fastdfs-client</artifactId>
+            <groupId>cn.bestwu</groupId>
+            <artifactId>fastdfs-client-java</artifactId>
         </dependency>
 
         <dependency>

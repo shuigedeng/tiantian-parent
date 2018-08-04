@@ -1,27 +1,32 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8" %>
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
-<!-- Force latest IE rendering engine or ChromeFrame if installed -->
-<!--[if IE]>
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-<![endif]-->
-<meta charset="utf-8">
-<title>jQuery File Upload Demo</title>
-<meta name="description" content="File Upload widget with multiple file selection, drag&amp;drop support, progress bars, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads and client-side image resizing. Works with any server-side platform (PHP, Python, Ruby on Rails, Java, Node.js, Go etc.) that supports standard HTML form file uploads.">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!-- Bootstrap styles -->
-<link rel="stylesheet" href="/js/file-upload/bootstrap-3.2.0/css/bootstrap.min.css">
-<!-- Generic page styles -->
-<link rel="stylesheet" href="/js/file-upload/css/style.css">
-<!-- blueimp Gallery styles -->
-<link rel="stylesheet" href="/js/file-upload/gallery/css/blueimp-gallery.min.css">
-<!-- CSS to style the file input field as button and adjust the Bootstrap progress bars -->
-<link rel="stylesheet" href="/js/file-upload/css/jquery.fileupload.css">
-<link rel="stylesheet" href="/js/file-upload/css/jquery.fileupload-ui.css">
-<!-- CSS adjustments for browsers with JavaScript disabled -->
-<noscript><link rel="stylesheet" href="/js/file-upload/css/jquery.fileupload-noscript.css"></noscript>
-<noscript><link rel="stylesheet" href="/js/file-upload/css/jquery.fileupload-ui-noscript.css"></noscript>
+    <!-- Force latest IE rendering engine or ChromeFrame if installed -->
+    <!--[if IE]>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <![endif]-->
+    <meta charset="utf-8">
+    <title>jQuery File Upload Demo</title>
+    <meta name="description"
+          content="File Upload widget with multiple file selection, drag&amp;drop support, progress bars, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads and client-side image resizing. Works with any server-side platform (PHP, Python, Ruby on Rails, Java, Node.js, Go etc.) that supports standard HTML form file uploads.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap styles -->
+    <link rel="stylesheet" href="/js/file-upload/bootstrap-3.2.0/css/bootstrap.min.css">
+    <!-- Generic page styles -->
+    <link rel="stylesheet" href="/js/file-upload/css/style.css">
+    <!-- blueimp Gallery styles -->
+    <link rel="stylesheet" href="/js/file-upload/gallery/css/blueimp-gallery.min.css">
+    <!-- CSS to style the file input field as button and adjust the Bootstrap progress bars -->
+    <link rel="stylesheet" href="/js/file-upload/css/jquery.fileupload.css">
+    <link rel="stylesheet" href="/js/file-upload/css/jquery.fileupload-ui.css">
+    <!-- CSS adjustments for browsers with JavaScript disabled -->
+    <noscript>
+        <link rel="stylesheet" href="/js/file-upload/css/jquery.fileupload-noscript.css">
+    </noscript>
+    <noscript>
+        <link rel="stylesheet" href="/js/file-upload/css/jquery.fileupload-ui-noscript.css">
+    </noscript>
 </head>
 <body>
 <div class="container">
@@ -48,7 +53,7 @@
                 <button type="button" class="btn btn-danger delete">
                     <i class="glyphicon glyphicon-trash"></i>
                     <span>删除</span>
-                </button> 
+                </button>
                 <input type="checkbox" class="toggle" title="全选">
                 <!-- The global file processing state -->
                 <span class="fileupload-process"></span>
@@ -64,7 +69,9 @@
             </div>
         </div>
         <!-- The table listing the files available for upload/download -->
-        <table role="presentation" class="table table-striped"><tbody class="files"></tbody></table>
+        <table role="presentation" class="table table-striped">
+            <tbody class="files"></tbody>
+        </table>
     </form>
     <br>
     <div class="panel panel-default">
@@ -120,6 +127,7 @@
         </td>
     </tr>
 {% } %}
+
 </script>
 <!-- The template to display files available for download -->
 <script id="template-download" type="text/x-tmpl">
@@ -163,6 +171,7 @@
         </td>
     </tr>
 {% } %}
+
 </script>
 <script src="/js/file-upload/jquery-1.11.1.min.js"></script>
 <!-- The jQuery UI widget factory, can be omitted if jQuery UI is already included -->
@@ -199,5 +208,5 @@
 <!--[if (gte IE 8)&(lt IE 10)]>
 <script src="/js/file-upload/cors/jquery.xdr-transport.js"></script>
 <![endif]-->
-</body> 
+</body>
 </html>

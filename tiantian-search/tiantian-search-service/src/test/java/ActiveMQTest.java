@@ -7,7 +7,6 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
  * @create 2018/4/12 9:31
  */
 public class ActiveMQTest {
-    @Test
     public void testQueueConsumer() throws Exception {
         // 初始化Spring容器
         ApplicationContext applicationContext = new
