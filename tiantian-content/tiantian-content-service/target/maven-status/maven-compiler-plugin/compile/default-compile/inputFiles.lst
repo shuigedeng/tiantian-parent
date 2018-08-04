@@ -1,5 +1,0 @@
-/home/dengtao/myProject/java/tiantian-parent/tiantian-content/tiantian-content-service/src/main/java/com/tiantian/content/jedis/JedisClient.java
-/home/dengtao/myProject/java/tiantian-parent/tiantian-content/tiantian-content-service/src/main/java/com/tiantian/content/service/impl/ContentServiceImpl.java
-/home/dengtao/myProject/java/tiantian-parent/tiantian-content/tiantian-content-service/src/main/java/com/tiantian/content/service/impl/ContentCategoryServiceImpl.java
-/home/dengtao/myProject/java/tiantian-parent/tiantian-content/tiantian-content-service/src/main/java/com/tiantian/content/jedis/impl/JedisClientCluster.java
-/home/dengtao/myProject/java/tiantian-parent/tiantian-content/tiantian-content-service/src/main/java/com/tiantian/content/jedis/impl/JedisClientPool.java
