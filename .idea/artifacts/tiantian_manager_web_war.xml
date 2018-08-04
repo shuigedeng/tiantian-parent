@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="tiantian-manager-web:war">
-    <output-path>$PROJECT_DIR$/../tiantian-parent/tiantian-manager-web/target</output-path>
-    <root id="archive" name="tiantian-manager-web.war">
-      <element id="artifact" artifact-name="tiantian-manager-web:war exploded" />
-    </root>
-  </artifact>
-</component>
