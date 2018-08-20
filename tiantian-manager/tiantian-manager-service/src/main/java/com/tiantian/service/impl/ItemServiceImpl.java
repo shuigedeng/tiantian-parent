@@ -6,7 +6,7 @@ import com.tiantian.common.pojo.EasyUIDataGridResult;
 import com.tiantian.common.pojo.TaotaoResult;
 import com.tiantian.common.utils.IDUtils;
 import com.tiantian.common.utils.JsonUtils;
-import com.tiantian.jedis.JedisClient;
+import com.tiantian.common.utils.jedis.JedisClient;
 import com.tiantian.mapper.TbItemDescMapper;
 import com.tiantian.mapper.TbItemMapper;
 import com.tiantian.pojo.TbItem;

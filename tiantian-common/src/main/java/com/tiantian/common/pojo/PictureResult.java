@@ -1,4 +1,4 @@
-package com.tiantian.common.utils;
+package com.tiantian.common.pojo;
 /**
  * 上传图片返回值
  * <p>Title: PictureResult</p>

@@ -1,7 +1,7 @@
 package com.tiantian.order.service.impl;
 
 import com.tiantian.common.pojo.TaotaoResult;
-import com.tiantian.content.jedis.JedisClient;
+import com.tiantian.common.utils.jedis.JedisClient;
 import com.tiantian.mapper.TbOrderItemMapper;
 import com.tiantian.mapper.TbOrderMapper;
 import com.tiantian.mapper.TbOrderShippingMapper;
@@ -25,17 +25,22 @@ public class OrderServiceImpl implements OrderService {
 
     @Autowired
     private TbOrderMapper orderMapper;
+
     @Autowired
     private TbOrderItemMapper orderItemMapper;
+
     @Autowired
     private TbOrderShippingMapper orderShippingMapper;
+
     @Autowired
     private JedisClient jedisClient;
 
     @Value("${ORDER_GEN_KEY}")
     private String ORDER_GEN_KEY;
+
     @Value("${ORDER_ID_INIT}")
     private String ORDER_ID_INIT;
+
     @Value("${ORDER_DETAIL_GEN_KEY}")
     private String ORDER_DETAIL_GEN_KEY;
 

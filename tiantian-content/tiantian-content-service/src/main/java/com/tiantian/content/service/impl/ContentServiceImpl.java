@@ -2,6 +2,7 @@ package com.tiantian.content.service.impl;
 
 import com.tiantian.common.pojo.TaotaoResult;
 import com.tiantian.common.utils.JsonUtils;
+import com.tiantian.common.utils.jedis.JedisClient;
 import com.tiantian.content.service.ContentService;
 import com.tiantian.mapper.TbContentMapper;
 import com.tiantian.pojo.TbContent;
@@ -10,7 +11,6 @@ import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Service;
-import com.tiantian.content.jedis.JedisClient;
 
 import java.util.Date;
 import java.util.List;

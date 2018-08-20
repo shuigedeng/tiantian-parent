@@ -38,3 +38,5 @@ java.net.ConnectException: 拒绝连接 (Connection refused)
 2018-08-04 09:58:24 INFO org.I0Itec.zkclient.ZkEventThread.run(64) : Starting ZkClient event thread.
 2018-08-04 09:59:07 INFO ?.?(?) : using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
 2018-08-04 09:59:07 INFO org.I0Itec.zkclient.ZkEventThread.run(64) : Starting ZkClient event thread.
+2018-08-04 10:52:15 INFO ?.?(?) : using logger: com.alibaba.dubbo.common.logger.log4j.Log4jLoggerAdapter
+2018-08-04 10:52:15 INFO org.I0Itec.zkclient.ZkEventThread.run(64) : Starting ZkClient event thread.

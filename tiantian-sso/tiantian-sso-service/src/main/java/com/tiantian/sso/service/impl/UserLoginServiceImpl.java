@@ -2,7 +2,7 @@ package com.tiantian.sso.service.impl;
 
 import com.tiantian.common.pojo.TaotaoResult;
 import com.tiantian.common.utils.JsonUtils;
-import com.tiantian.jedis.JedisClient;
+import com.tiantian.common.utils.jedis.JedisClient;
 import com.tiantian.mapper.TbUserMapper;
 import com.tiantian.pojo.TbUser;
 import com.tiantian.pojo.TbUserExample;
